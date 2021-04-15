@@ -87,6 +87,7 @@ using BlazorApplication.Shared;
 #line 9 "C:\Dev\BlazorServer\BlazorApplication\Pages\Counter.razor"
        
     private int currentCount = 0;
+    private string fontFamily = "Verdana";
 
     private void IncrementCount()
     {
