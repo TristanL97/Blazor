@@ -45,3 +45,4 @@ C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeMan
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.dll
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.pdb
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.genruntimeconfig.cache
+C:\Dev\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
