@@ -48,3 +48,5 @@ C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeMan
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeDetails.razor.g.cs
+C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeDetails.razor.g.cs
