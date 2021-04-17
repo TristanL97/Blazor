@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L/MXpZzpCPVvzOfEd6ZrqLNAHG8QxuHW+lKJdfvVs5yr6Lt113DeY8u5IR5E3mu4bRmNcckFmEPOl7Dzf4KW7w==",
+  "dgSpecHash": "sZzum7OOT0uGtTGTQ9k9nq1l0M9tSAMwOxciMQnrS0hZx/1fHBipgaj9xyHK4mixTatKOCo0rv/j06QWgwFtrA==",
   "success": true,
   "projectFilePath": "C:\\Dev\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,8 @@
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.5\\microsoft.aspnetcore.components.5.0.5.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.5\\microsoft.aspnetcore.components.analyzers.5.0.5.nupkg.sha512",
+    "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.13\\microsoft.aspnetcore.components.forms.3.1.13.nupkg.sha512",
+    "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.13\\microsoft.aspnetcore.components.web.3.1.13.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.5\\microsoft.aspnetcore.metadata.5.0.5.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
@@ -26,6 +28,7 @@
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.jsinterop\\3.1.13\\microsoft.jsinterop.3.1.13.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
