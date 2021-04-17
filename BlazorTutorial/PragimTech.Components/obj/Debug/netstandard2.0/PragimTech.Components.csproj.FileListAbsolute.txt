@@ -20,4 +20,3 @@ C:\Dev\BlazorTutorial\PragimTech.Components\obj\Debug\netstandard2.0\scopedcss\b
 C:\Dev\BlazorTutorial\PragimTech.Components\obj\Debug\netstandard2.0\PragimTech.Components.RazorTargetAssemblyInfo.cache
 C:\Dev\BlazorTutorial\PragimTech.Components\obj\Debug\netstandard2.0\PragimTech.Components.dll
 C:\Dev\BlazorTutorial\PragimTech.Components\obj\Debug\netstandard2.0\PragimTech.Components.pdb
-C:\Dev\BlazorTutorial\PragimTech.Components\obj\Debug\netstandard2.0\PragimTech.Components.csprojAssemblyReference.cache

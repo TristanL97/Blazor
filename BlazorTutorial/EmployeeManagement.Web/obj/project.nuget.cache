@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sZzum7OOT0uGtTGTQ9k9nq1l0M9tSAMwOxciMQnrS0hZx/1fHBipgaj9xyHK4mixTatKOCo0rv/j06QWgwFtrA==",
+  "dgSpecHash": "Mu+3rJ9JBWEWYjHP1ANdQZ3s3JAQdCFChAqAiRpqevpK4FUFtRNxd+4PjJSphV2f+iNNcypoMGBOC8DbnyFETg==",
   "success": true,
   "projectFilePath": "C:\\Dev\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.5\\microsoft.aspnetcore.components.5.0.5.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.5\\microsoft.aspnetcore.components.analyzers.5.0.5.nupkg.sha512",
+    "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components.dataannotations.validation\\3.2.0-preview2.20160.5\\microsoft.aspnetcore.components.dataannotations.validation.3.2.0-preview2.20160.5.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.13\\microsoft.aspnetcore.components.forms.3.1.13.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.13\\microsoft.aspnetcore.components.web.3.1.13.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.5\\microsoft.aspnetcore.metadata.5.0.5.nupkg.sha512",

@@ -73,3 +73,4 @@ C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\EmployeeManagement
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\ref\EmployeeManagement.Web.dll
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\EmployeeManagement.Web.pdb
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\EmployeeManagement.Web.genruntimeconfig.cache
+C:\Dev\BlazorTutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
