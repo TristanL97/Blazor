@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Mu+3rJ9JBWEWYjHP1ANdQZ3s3JAQdCFChAqAiRpqevpK4FUFtRNxd+4PjJSphV2f+iNNcypoMGBOC8DbnyFETg==",
+  "dgSpecHash": "qz3t59NUusvGuemDpQuT8ityzvwhNEPt1bCMaOJxveZmyFiX0gsNO39Gw2ZdW9AyO5UuUyJqch6E/B9ydGRVfw==",
   "success": true,
   "projectFilePath": "C:\\Dev\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tristan.lossman\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\tristan.lossman\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.5\\microsoft.aspnetcore.authorization.5.0.5.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
@@ -33,6 +35,7 @@
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\tristan.lossman\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
   ],
   "logs": []

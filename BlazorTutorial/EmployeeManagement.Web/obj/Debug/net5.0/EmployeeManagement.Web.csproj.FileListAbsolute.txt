@@ -74,3 +74,5 @@ C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\ref\EmployeeManage
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\EmployeeManagement.Web.pdb
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\obj\Debug\net5.0\EmployeeManagement.Web.genruntimeconfig.cache
 C:\Dev\BlazorTutorial\EmployeeManagement.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Dev\BlazorTutorial\EmployeeManagement.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Dev\BlazorTutorial\EmployeeManagement.Web\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
