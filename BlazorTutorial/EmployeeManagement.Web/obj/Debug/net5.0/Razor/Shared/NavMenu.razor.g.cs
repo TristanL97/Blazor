@@ -86,6 +86,13 @@ using PragimTech.Components;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "C:\Dev\BlazorTutorial\EmployeeManagement.Web\_Imports.razor"
+using EmployeeManagement.Models;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
