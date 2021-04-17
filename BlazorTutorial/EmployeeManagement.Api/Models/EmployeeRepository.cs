@@ -1,6 +1,5 @@
 ﻿using EmployeeManagement.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -26,11 +25,13 @@ namespace EmployeeManagement.Api.Models
             return await appDbContext.Employees
                 .FirstOrDefaultAsync(e => e.EmployeeId == employeeId);
         }
+
         public async Task<Employee> GetEmployeeByEmail(string email)
         {
             return await appDbContext.Employees
                 .FirstOrDefaultAsync(e => e.Email == email);
         }
+
         public async Task<Employee> AddEmployee(Employee employee)
         {
             var result = await appDbContext.Employees.AddAsync(employee);
@@ -71,14 +72,13 @@ namespace EmployeeManagement.Api.Models
                 await appDbContext.SaveChangesAsync();
                 return result;
             }
-
             return null;
         }
 
         public async Task<IEnumerable<Employee>> Search(string name, Gender? gender)
         {
             IQueryable<Employee> query = appDbContext.Employees;
-           
+
             if (!string.IsNullOrEmpty(name))
             {
                 query = query.Where(e => e.FirstName.Contains(name)

@@ -1,15 +1,10 @@
 using EmployeeManagement.Web.Services;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace EmployeeManagement.Web
 {
@@ -30,8 +25,9 @@ namespace EmployeeManagement.Web
             services.AddServerSideBlazor();
             services.AddHttpClient<IEmployeeService, EmployeeService>(client =>
             {
-                client.BaseAddress = new Uri("https://localhost:44306/");
+            client.BaseAddress = new Uri ("https://localhost:44313/");
             });
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

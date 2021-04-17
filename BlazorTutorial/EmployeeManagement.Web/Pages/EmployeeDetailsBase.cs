@@ -11,7 +11,7 @@ namespace EmployeeManagement.Web.Pages
     public class EmployeeDetailsBase : ComponentBase
     {
         public Employee Employee { get; set; } = new Employee();
-
+        
         [Inject]
         public IEmployeeService EmployeeService { get; set; }
 
