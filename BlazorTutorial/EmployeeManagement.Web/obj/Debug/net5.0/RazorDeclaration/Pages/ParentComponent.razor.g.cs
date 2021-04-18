@@ -105,10 +105,16 @@ using EmployeeManagement.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 12 "C:\Dev\BlazorTutorial\EmployeeManagement.Web\Pages\ParentComponent.razor"
+#line 19 "C:\Dev\BlazorTutorial\EmployeeManagement.Web\Pages\ParentComponent.razor"
        
     public string Style { get; set; } = "color:red";
     public string BorderStyle { get; set; } = "border:1px solid red";
+    public int Counter { get; set; } = 0;
+
+    private void IncrementCounter()
+    {
+        Counter = Counter + 1;
+    }
 
 #line default
 #line hidden
