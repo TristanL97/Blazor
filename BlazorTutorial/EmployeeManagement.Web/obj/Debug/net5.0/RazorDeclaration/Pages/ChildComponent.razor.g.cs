@@ -104,14 +104,10 @@ using EmployeeManagement.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 3 "C:\Dev\BlazorTutorial\EmployeeManagement.Web\Pages\ChildComponent.razor"
+#line 5 "C:\Dev\BlazorTutorial\EmployeeManagement.Web\Pages\ChildComponent.razor"
        
-    [Parameter(CaptureUnmatchedValues = true)]
-    public Dictionary<string, object> InputAttributes { get; set; } =
-        new Dictionary<string, object>();
-
-    [Parameter]
-    public string Value { get; set; } = "Child Value";
+    [CascadingParameter]
+    public string ElementStyle { get; set; }
 
 #line default
 #line hidden
