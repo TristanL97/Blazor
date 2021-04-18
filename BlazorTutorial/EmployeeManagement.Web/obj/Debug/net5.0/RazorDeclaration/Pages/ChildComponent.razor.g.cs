@@ -106,16 +106,10 @@ using EmployeeManagement.Models;
 #nullable restore
 #line 3 "C:\Dev\BlazorTutorial\EmployeeManagement.Web\Pages\ChildComponent.razor"
        
-    [Parameter]
+    [Parameter(CaptureUnmatchedValues = true)]
     public Dictionary<string, object> InputAttributes { get; set; } =
-        new Dictionary<string, object>()
-        {
-            { "required", "required" },
-            { "placeholder", "Child Component Placeholder" },
-            { "size", "100" },
-            { "maxlength", "15" }
+        new Dictionary<string, object>();
 
-        };
     [Parameter]
     public string Value { get; set; } = "Child Value";
 

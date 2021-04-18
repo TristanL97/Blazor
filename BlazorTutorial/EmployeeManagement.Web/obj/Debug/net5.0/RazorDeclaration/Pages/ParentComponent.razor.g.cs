@@ -104,21 +104,6 @@ using EmployeeManagement.Models;
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 7 "C:\Dev\BlazorTutorial\EmployeeManagement.Web\Pages\ParentComponent.razor"
-       
-    public Dictionary<string, object> attributesFromParent { get; set; } =
-        new Dictionary<string, object>()
-        {
-            { "required", "required" },
-            { "placeholder", "Parent Component Placeholder" },
-            { "size", "50" },
-            { "maxlength", "5" }
-            };
-
-#line default
-#line hidden
-#nullable disable
     }
 }
 #pragma warning restore 1591
